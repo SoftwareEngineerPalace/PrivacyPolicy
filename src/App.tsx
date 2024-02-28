@@ -50,7 +50,7 @@ function App() {
         <a href="https://docs.qq.com/mind/DT1NhYnphakVlZm1z">长难句</a>
       </Card>
       <Card title="帮助记忆的小程序">
-        <Image width={100} height={100} src="/assets/applet.jpg"></Image>
+        <Image width={100} height={100} src="./applet.jpg"></Image>
       </Card>
     </div>
   );
