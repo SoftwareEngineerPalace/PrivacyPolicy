@@ -12,7 +12,10 @@ function App() {
       }}
     >
       <label style={{ marginBottom: "20px", fontSize: "17px" }}>
-        前端候选人肖建军 非在职期进修内容 建议用PC浏览
+        非在职期进修内容  建议用 PC 浏览
+      </label>
+      <label style={{ marginBottom: "20px", fontSize: "17px" }}>
+        前端候选人肖建军
       </label>
       <a href="https://docs.qq.com/mind/DT29kWVVJenRQVGlJ">Code Complete</a>{" "}
       <br></br>
